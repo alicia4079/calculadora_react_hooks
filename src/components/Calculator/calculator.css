@@ -1,0 +1,24 @@
+.calc,
+.operations {
+  display: flex;
+  flex-direction: column;
+}
+
+.calc input {
+  height: 30px;
+  background-color: hsl(349, 90%, 66%);
+}
+
+.calc button {
+  height: 30px;
+  cursor: pointer;
+}
+.calc h2,
+.historic {
+  font-size: 30px;
+}
+span,
+h3 {
+  font-size: 26px;
+  color: rgb(244, 99, 99);
+}

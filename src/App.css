@@ -1,0 +1,10 @@
+.divDate {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100svh;
+  gap: 40px;
+  font-size: 30px;
+  font-weight: 500;
+}
